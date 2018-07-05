@@ -1,0 +1,19 @@
+{
+    "name": "pong",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "parcel src/index.html --open",
+        "build": "parcel build src/index.html --no-source-maps"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^4.9.0",
+        "parcel-bundler": "^1.9.3",
+        "tslint": "^5.10.0",
+        "tslint-config-airbnb": "^5.9.2",
+        "typescript": "^2.9.2"
+    }
+}

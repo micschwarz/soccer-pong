@@ -1,0 +1,11 @@
+const image = new Image();
+image.src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUC' +
+    'AYAAACNiR0NAAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB' +
+    '3RJTUUH4gcCDzIEbjDT5wAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcA' +
+    'AADfSURBVDjLpVXBEYQwCNzNXG+2ZA024St9aRf64j7G4RAS7m5nMqMkrLABBALUWgVAtELQs' +
+    'QkAiAhIQsT3J+n6W4M0gsuhGdOkHJElcTsUTUYyJJumCSLysaxMNlW5QnSXh3meH5dFnWov3YGO92v' +
+    'JOvawbZufboRaa7hn5aKYkKLa69WkPlOsZsdxhBqSxL7vdzV4etPWXy8Kj8BeaGkP7fCyLPgDZFCUqej02d' +
+    'aGxW1w5dw068mg99lpnWGUNjrdy6lpoD/ikQHAy7vx8zxTxKPx9ZgciRL6as6' +
+    'tv/wC3qOv8MACGjHJAAAAAElFTkSuQmCC';
+
+export default image;
