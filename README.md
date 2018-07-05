@@ -1,5 +1,5 @@
-#![Soccer Football Logo](football.png) Soccer Pong
-[![Maintainability](https://api.codeclimate.com/v1/badges/85dce0f8aabac011a66a/maintainability)](https://codeclimate.com/github/micschwarz/soccer-pong/maintainability)
+# Soccer Pong
+![Soccer Football Logo](football.png) [![Maintainability](https://api.codeclimate.com/v1/badges/85dce0f8aabac011a66a/maintainability)](https://codeclimate.com/github/micschwarz/soccer-pong/maintainability)
 
 ## Requirements
 - NodeJs
