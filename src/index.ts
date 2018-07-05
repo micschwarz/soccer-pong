@@ -132,7 +132,7 @@ function getRandomAiTeam(userTeam: Team): Team {
     });
 
     const length = teamsWithoutUser.length - 1;
-    const randTeam = Math.floor(Math.random() * length);
+    const randTeam = Math.round(Math.random() * length);
     return teamsWithoutUser[randTeam];
 }
 
